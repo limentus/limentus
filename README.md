@@ -7,6 +7,5 @@ I'm a Student
 
 * Favourite **Programming** languages -> Dart, Java, Kotlin, Python
 
-### Followers
 
-* [![](https://img.shields.io/github/followers/DevApurba?style=plastic)](https://github.com/DevApurba)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatCoolKid&show_icons=true&layout=compact&theme=tokyonight&hide=html,css,tex&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
