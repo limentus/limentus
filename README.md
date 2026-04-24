@@ -1,12 +1,12 @@
 # Hi, I'm Lime! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Student+Developer;Dart+%2F+Flutter+Enthusiast;Building+cool+mobile+apps;Java+%26+Kotlin+for+Android;Python+for+automation+%26+fun" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Developer;Dart+%2F+Flutter+Enthusiast;Building+cool+mobile+apps;Java+%26+Kotlin+for+Android;Python+for+automation+%26+fun" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-- 🎓 **Student** exploring mobile & backend development
+- 🎓 **Exploring** mobile & low level **C** development
 - 💻 **Favourite Programming Languages**: Dart, Java, Kotlin, Python
 - 🌱 Currently learning more about **Flutter**, **Android Jetpack**, and **backend APIs**
 - 🔭 Working on fun bots & apps (check my pinned repos!)
